@@ -1,0 +1,1 @@
+1. Application java11-gradle-release-deploy-github has been successfully deployed!!
